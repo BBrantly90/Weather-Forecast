@@ -34,8 +34,10 @@ N/A
 ## Credits 🧑‍🤝‍🧑
 
 Developer: Bryan Brantly
+
 API used: OpenWeather.org
-Visual Studio Code: Program used to create the application
+
+Visual Studio Code: Program used to create the application.
 
 ## Questions 🙋
 
