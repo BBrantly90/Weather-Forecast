@@ -55,3 +55,41 @@ input::placeholder {
     margin-right: 0.5rem;
 }
 /* Body Styling */
+.weather_body {
+    text-align: center;
+    margin-top: 3rem;
+}
+.weather_datetime {
+    margin-bottom: 2rem;
+    font-size: 14px;
+}
+.weather_forecast {
+    background: #1e1e1e;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+}
+.weather_icon img {
+    width: 100px;
+}
+.weather_temperature {
+    font-size: 1.75rem;
+}
+.weather_minmax {
+    display: flex;
+    justify-content: center;
+}
+.weather_minmax p {
+    font-size: 14px;
+    margin: 0.5rem;
+}
+/* Display Styling */
+.weather_info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    margin-top: 3rem;
+}
+.weather_card {
+    
+}
