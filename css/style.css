@@ -91,5 +91,34 @@ input::placeholder {
     margin-top: 3rem;
 }
 .weather_card {
-    
+    display: flex;
+    align-items: center;
+    background: #1e1e1e;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.weather_card i {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+.weather_card p {
+    font-size: 14px;
+}
+/* @media Styling */
+@media(max-width: 936px){
+    .container {
+        width: 90%;
+    }
+    .weather_header {
+        flex-direction: column;
+    }
+    .weather_units {
+        margin-top: 1rem;
+    }
+}
+
+@media(max-width: 400px){
+    .weather_info {
+        grid-template-columns: none;
+    }
 }
