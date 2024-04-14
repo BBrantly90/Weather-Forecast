@@ -6,13 +6,13 @@ A simple weather application that utilizes HTML, CSS, and JavaScript to make a c
 
 ## Table of Contents 📖
 
-Installation
-Usage
-License
-Test
-Credits
-Questions
-Deployed Application
+- [Installation](#installation-⚙️)
+- [Usage](#usage-🎮)
+- [License](#license-📝)
+- [Test](#tests-🧪)
+- [Credits](#credits-🧑‍🤝‍🧑)
+- [Questions](#questions-🙋)
+- [Deployed Application](#deployed-application-🚀)
 
 ## Installation ⚙️
 
@@ -23,6 +23,7 @@ Run the index.html file through whichever browser theuser feels most comfortable
 This weather application is open to anyone who wishes to use it.
 
 ## License 📝
+![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This application is coverd by the MIT license
 
@@ -40,7 +41,7 @@ Visual Studio Code: Program used to create the application
 
 Any questions please contact me at my email at: Bryan4690@gmail.com
 
-Find me on GitHub at https://github.com/BBrantly90
+Find me on GitHub at: https://github.com/BBrantly90
 
 ## Deployed Application 🚀
 
