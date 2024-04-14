@@ -21,3 +21,37 @@
     justify-content: space-between;
     align-items: center;
 }
+/* Input */
+input {
+    border: none;
+    background: #1e1e1e;
+    outline: none;
+    color: #fff;
+    padding: 0.5rem 2.5rem;
+    border-radius: 5px;
+}
+/* Input Placeholder */
+input::placeholder {
+    color: #fff;
+}
+/* Weather Search */
+.weather_search {
+    position: relative;
+}
+.weather_search i {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+    color: #fff
+}
+.weather_units {
+    font-size: 1.5rem;
+}
+.weather_units span {
+    cursor: pointer;
+}
+.weather_units span:first-child {
+    margin-right: 0.5rem;
+}
+/* Body Styling */
